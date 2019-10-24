@@ -1,8 +1,8 @@
+![preview](src/preview.gif)
+
 ### WELCOME TO BOARD-CRAWLER!
 
 정인아 안녕?
-
-![preview](src/preview.gif)
 
 #### Structure
 ```
