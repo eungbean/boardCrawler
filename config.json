@@ -1,0 +1,10 @@
+{
+    "chrome_version": "77", 
+    "OS" : "mac",
+    "TARGET_URL" : "http://yeouido.sen.hs.kr/79752/subMenu.do",
+    "LOGIN_FORM" : {
+        "userId": "",
+        "password": ""
+        }
+    
+}
