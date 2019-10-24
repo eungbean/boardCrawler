@@ -2,6 +2,8 @@
 
 정인아 안녕?
 
+![preview](src/preview.gif)
+
 #### Structure
 ```
 .

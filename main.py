@@ -86,7 +86,7 @@ for container in containers:
         'author': container.select('td')[2].get_text(strip=True)
     })
     print("GET: ", container.select('td')[1].get_text(strip=True))
-    # time.sleep(0.1)
+    time.sleep(0.1)
 
 endTime = time.time() - startTime
 print("CRAWLING DONE: {} seconds".format(endTime))
