@@ -38,6 +38,7 @@ deactivate
 
 #### 1. config.json
 
+```json
 "chrome_version": '77' or '78'
 "OS" : 'mac' or 'win' or 'linux'
 "TARGET_URL" : 
@@ -45,9 +46,10 @@ deactivate
     "userId": "",
     "password": ""
     }
+```
 
 #### RUN
-```
+```sh
 python main.py
 ```
 
