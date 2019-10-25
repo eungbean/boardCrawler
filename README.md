@@ -2,8 +2,6 @@
 
 ### WELCOME TO BOARD-CRAWLER!
 
-정인아 안녕?
-
 #### Structure
 ```
 .
